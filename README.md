@@ -1,5 +1,3 @@
-# Study React Native
-
 # Study Notes
 
 ## Day#1
